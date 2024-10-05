@@ -3,7 +3,7 @@
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
-    "license": "MIT",
+    "license": "",
     "require": {
         "php": "^7.3|^8.0",
         "erusev/parsedown-extra": "^0.8.1",
